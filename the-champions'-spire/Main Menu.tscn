@@ -17,3 +17,7 @@ offset_bottom = 8.0
 [node name="Button4" type="Button" parent="."]
 offset_right = 8.0
 offset_bottom = 8.0
+
+[node name="Button5" type="Button" parent="."]
+offset_right = 8.0
+offset_bottom = 8.0
